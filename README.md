@@ -71,7 +71,6 @@ A web-based Rock Paper Scissors game implemented using ASP.NET Web Forms, allowi
 - **Progress Indication**: Loading state feedback
 
 ## Web Architecture
-Project/
 - rockScissorsGame.aspx           # Main game page
 - rockScissorsGame.aspx.cs        # Code-behind logic
 - Web.config            # Application configuration
