@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\class_Alvin\\Scripts\\C#_webForm\\Project\\RockScissors_webForm\\",
+  "WorkspaceRootPath": "C:\\Users\\Swerxen\\Desktop\\GitHub\\WebForm_gitScissors\\RockScissors_webForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D28294D-B02C-445F-86DC-C0EE391EF19D}|login.csproj|d:\\class_alvin\\scripts\\c#_webform\\project\\rockscissors_webform\\rockscissorsgame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4D28294D-B02C-445F-86DC-C0EE391EF19D}|login.csproj|C:\\Users\\Swerxen\\Desktop\\GitHub\\WebForm_gitScissors\\RockScissors_webForm\\rockscissorsgame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4D28294D-B02C-445F-86DC-C0EE391EF19D}|login.csproj|solutionrelative:rockscissorsgame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28294D-B02C-445F-86DC-C0EE391EF19D}|login.csproj|c:\\users\\swerxen\\desktop\\github\\webform_gitscissors\\rockscissors_webform\\rockscissorsgame.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28294D-B02C-445F-86DC-C0EE391EF19D}|login.csproj|solutionrelative:rockscissorsgame.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +34,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rockScissorsGame.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\GitHub\\WebForm_gitScissors\\RockScissors_webForm\\rockScissorsGame.aspx.cs",
+              "RelativeDocumentMoniker": "rockScissorsGame.aspx.cs",
+              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\GitHub\\WebForm_gitScissors\\RockScissors_webForm\\rockScissorsGame.aspx.cs",
+              "RelativeToolTip": "rockScissorsGame.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:32:30.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "rockScissorsGame.aspx",
-              "DocumentMoniker": "D:\\class_Alvin\\Scripts\\C#_webForm\\Project\\RockScissors_webForm\\rockScissorsGame.aspx",
+              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\GitHub\\WebForm_gitScissors\\RockScissors_webForm\\rockScissorsGame.aspx",
               "RelativeDocumentMoniker": "rockScissorsGame.aspx",
-              "ToolTip": "D:\\class_Alvin\\Scripts\\C#_webForm\\Project\\RockScissors_webForm\\rockScissorsGame.aspx",
+              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\GitHub\\WebForm_gitScissors\\RockScissors_webForm\\rockScissorsGame.aspx",
               "RelativeToolTip": "rockScissorsGame.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
